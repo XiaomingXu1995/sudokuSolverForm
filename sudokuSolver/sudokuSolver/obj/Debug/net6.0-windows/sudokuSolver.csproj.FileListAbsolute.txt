@@ -1,0 +1,16 @@
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\bin\Debug\net6.0-windows\sudokuSolver.exe
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\bin\Debug\net6.0-windows\sudokuSolver.deps.json
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\bin\Debug\net6.0-windows\sudokuSolver.runtimeconfig.json
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\bin\Debug\net6.0-windows\sudokuSolver.dll
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\bin\Debug\net6.0-windows\sudokuSolver.pdb
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.SudokuForm.resources
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.csproj.GenerateResource.cache
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.AssemblyInfoInputs.cache
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.AssemblyInfo.cs
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.dll
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\refint\sudokuSolver.dll
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.pdb
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\sudokuSolver.genruntimeconfig.cache
+C:\Users\v-xiaomingxu\Documents\my_code\sudokuSolverForm\sudokuSolver\sudokuSolver\obj\Debug\net6.0-windows\ref\sudokuSolver.dll
